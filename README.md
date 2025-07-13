@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<img src="https://github.com/bloody-bunny/bloody/blob/main/bb%26nitoru_20250713183633.png"/>
+<img src="https://github.com/bloody-bunny/bloody/blob/main/bb%26nitoru_20250713184621.png"/>
 </p>
 
 
