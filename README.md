@@ -1,6 +1,6 @@
 <p align="center"
 
-![](https://komarev.com/ghpvc/?username=bloody-bunny&color=EE1C25&label=✧+Bunnies)
+![](https://komarev.com/ghpvc/?username=bloody-bunny&color=EE1C25&label=✦+bunnies)
 
 </p>
 <p align="center">
