@@ -1,13 +1,11 @@
-<p align="center"
-
-![](https://komarev.com/ghpvc/?username=bloody-bunny&color=EE1C25&label=✦+bunnies)
-
-</p>
 <p align="center">
-<img src="https://github.com/bloody-bunny/bloody/blob/main/f1rdhl.png"/>
+  <img src="https://komarev.com/ghpvc/?username=bloody-bunny&color=EE1C25&label=✦+bunnies">
 </p>
 
 
+<p align="center">
+<img src="https://github.com/bloody-bunny/bloody/blob/main/f1rdhl.png">
+</p>
 
 <!--
 **bloody-bunny/bloody-bunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
