@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bloody-bunny/bloody/main/f1rdhl.png" width="160"/>
+  <img src="https://raw.githubusercontent.com/bloody-bunny/bloody/refs/heads/main/f1rdhl.png?token=GHSAT0AAAAAADHI3626JEQBVMCXGNPODNXQ2DTY7CQ" width="160"/>
 </p>
 <!--
 **bloody-bunny/bloody-bunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
