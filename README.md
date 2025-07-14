@@ -2,9 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=bloody-bunny&color=EE1C25&label=✦+bunnies">
 </p>
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bloody-bunny/bloody/refs/heads/main/f1rdhl.png?token=GHSAT0AAAAAADHKNQG37U45VI4G7KAOP53E2DU6JLQ" width="160"/>
+  <img src="https://i.postimg.cc/wMQh3PgJ/bb-nitoru-20250714234346.png" width="160"/>
 </p>
 <!--
 **bloody-bunny/bloody-bunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
